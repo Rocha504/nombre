@@ -30,6 +30,9 @@ public class SumatoriaMetodos {
                 abajo=abajo-1;}
                 denominador=fact;
         
+                
+                
+                
                 return denominador;
         }
 }
